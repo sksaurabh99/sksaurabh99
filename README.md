@@ -127,11 +127,48 @@ I specialize in:
 </p>
 
 ---
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=sksaurabh99&theme=radical&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sksaurabh99&theme=tokyonight&hide_border=true&border_radius=15&ring=00F5A0&fire=FFD93D&currStreakLabel=00FFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sksaurabh99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00D9FF&icon_color=FFD93D&text_color=FFFFFF" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sksaurabh99&bg_color=0D1117&color=00F5A0&line=FFD93D&point=4FFFCF&area_color=7C3AED&area=true&hide_border=true" width="98%"/>
+</p>
 
 ---
+
+## 🐍 Watch My Contributions Get Eaten By A Snake!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=900&color=00F5A0&lines=Let's+Connect+🌍;Collaborate+on+DevOps+%26+Cloud+Projects+🚀;Open+to+DevOps+%26+Cloud+Roles+💼;Automate.+Scale.+Deliver.+✨" alt="connect typing"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabh-korde-21b422281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saurabhkorde909@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sksaurabh99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
 
 ## 📜 Certifications (Planned / Pursuing)
 - AWS Cloud Practitioner  
